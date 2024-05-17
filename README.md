@@ -19,13 +19,21 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 #swapping 2 values
+
 #developed by JAYASURIYA J
+
 #Registor no:212223230088
+
 surya_data=input()
+
 vijay_data=input()
+
 tmp=surya_data
+
 surya_data=vijay_data
+
 vijay_data=tmp
+
 print("Swapped values are:",surya_data,vijay_data)
 
 ## OUTPUT
